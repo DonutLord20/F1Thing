@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/BackGround.png","C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/bin/DesktopGL/BackGround.xnb","TextureProcessor","Texture2DContent",41500,253525,0.0721324
+"C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/Car.png","C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/bin/DesktopGL/Car.xnb","TextureProcessor","Texture2DContent",46185,112937,0.0060344
+"C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/GameFont.spritefont","C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/bin/DesktopGL/GameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70681,0.0731967
+"C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/Lights.png","C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/bin/DesktopGL/Lights.xnb","TextureProcessor","Texture2DContent",4162,4000085,0.0767662
