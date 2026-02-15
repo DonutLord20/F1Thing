@@ -35,3 +35,4 @@ C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\obj\Debug\net8.0\refint\F1Thin
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\obj\Debug\net8.0\F1Thing2.pdb
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\obj\Debug\net8.0\F1Thing2.genruntimeconfig.cache
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\obj\Debug\net8.0\ref\F1Thing2.dll
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\obj\Debug\net8.0\F1Thing2.sourcelink.json
