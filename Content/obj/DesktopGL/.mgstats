@@ -1,5 +1,10 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/BackGround.png","C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/bin/DesktopGL/BackGround.xnb","TextureProcessor","Texture2DContent",41500,253525,0.0721324
-"C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/Car.png","C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/bin/DesktopGL/Car.xnb","TextureProcessor","Texture2DContent",46185,112937,0.0060344
-"C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/GameFont.spritefont","C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/bin/DesktopGL/GameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70681,0.0731967
-"C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/Lights.png","C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/bin/DesktopGL/Lights.xnb","TextureProcessor","Texture2DContent",4162,4000085,0.0767662
+"c:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/BackGround.png","c:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/bin/DesktopGL/BackGround.xnb","TextureProcessor","Texture2DContent",41500,253525,0.1222261
+"c:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/Car.png","c:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/bin/DesktopGL/Car.xnb","TextureProcessor","Texture2DContent",46185,112937,0.0061956
+"c:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/GameFont.spritefont","c:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/bin/DesktopGL/GameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70681,0.062813
+"c:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/Light0.png","c:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/bin/DesktopGL/Light0.xnb","TextureProcessor","Texture2DContent",87788,220405,0.0052244
+"c:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/Light1.png","c:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/bin/DesktopGL/Light1.xnb","TextureProcessor","Texture2DContent",70013,220405,0.0064175
+"c:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/Light2.png","c:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/bin/DesktopGL/Light2.xnb","TextureProcessor","Texture2DContent",69698,220405,0.0067949
+"c:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/Light3.png","c:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/bin/DesktopGL/Light3.xnb","TextureProcessor","Texture2DContent",69287,220405,0.0736811
+"c:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/Light4.png","c:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/bin/DesktopGL/Light4.xnb","TextureProcessor","Texture2DContent",68836,220405,0.0056064
+"c:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/Light5.png","c:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/bin/DesktopGL/Light5.xnb","TextureProcessor","Texture2DContent",68561,220405,0.0060246

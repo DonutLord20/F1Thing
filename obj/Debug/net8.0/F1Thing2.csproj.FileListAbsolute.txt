@@ -7,7 +7,6 @@ C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\obj\Debug\net8.0\F1Thing2.cspr
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Debug\net8.0\Content\BackGround.xnb
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Debug\net8.0\Content\Car.xnb
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Debug\net8.0\Content\GameFont.xnb
-C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Debug\net8.0\Content\Lights.xnb
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Debug\net8.0\F1Thing2.exe
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Debug\net8.0\F1Thing2.deps.json
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Debug\net8.0\F1Thing2.runtimeconfig.json
@@ -36,3 +35,9 @@ C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\obj\Debug\net8.0\F1Thing2.pdb
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\obj\Debug\net8.0\F1Thing2.genruntimeconfig.cache
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\obj\Debug\net8.0\ref\F1Thing2.dll
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\obj\Debug\net8.0\F1Thing2.sourcelink.json
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Debug\net8.0\Content\Light0.xnb
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Debug\net8.0\Content\Light1.xnb
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Debug\net8.0\Content\Light2.xnb
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Debug\net8.0\Content\Light4.xnb
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Debug\net8.0\Content\Light5.xnb
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Debug\net8.0\Content\Light3.xnb

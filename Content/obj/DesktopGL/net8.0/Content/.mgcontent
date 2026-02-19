@@ -7,9 +7,19 @@
     <File>C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/BackGround.png</File>
     <File>C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/Car.png</File>
     <File>C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/GameFont.spritefont</File>
-    <File>C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/Lights.png</File>
+    <File>C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/Light0.png</File>
+    <File>C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/Light1.png</File>
+    <File>C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/Light2.png</File>
+    <File>C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/Light3.png</File>
+    <File>C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/Light4.png</File>
+    <File>C:/Users/Craig/OneDrive/Desktop/monogame/F1Thing2/Content/Light5.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 using System.Xml;
 using Microsoft.Xna.Framework;
@@ -19,6 +20,7 @@ public class Game1 : Game
     private double Time;
     private int Delay;
     private int Count;
+    private int LightIndex;
     private const int LIGHT_DELAY = 120;
     private Random Rand = new Random();
     private SpriteFont GameFont;
@@ -28,9 +30,8 @@ public class Game1 : Game
     private Texture2D TBackGround;
     private Rectangle BackGround;
 
-    private Texture2D TLights;
+    private Texture2D[] TLights = new Texture2D[6];
     private Rectangle Lights;
-    private Rectangle SourceLights;
     public Game1()
     {
         _graphics = new GraphicsDeviceManager(this);
@@ -49,11 +50,11 @@ public class Game1 : Game
         Time = 0;
         Delay = Rand.Next(5,601);
         Count = 0;
+        LightIndex = 0;
 
         Car = new Rectangle(0,400,200,60);
         BackGround = new Rectangle(0,0,800,480);
-        Lights = new Rectangle(700,8,28,8);
-        SourceLights = new Rectangle(0,0,28,8);
+        Lights = new Rectangle(480,-8,340,180);
         
         base.Initialize();
     }
@@ -64,7 +65,13 @@ public class Game1 : Game
         GameFont = Content.Load<SpriteFont>("GameFont");
         TCar = Content.Load<Texture2D>("Car");
         TBackGround = Content.Load<Texture2D>("BackGround");
-        TLights = Content.Load<Texture2D>("Lights");
+
+        TLights[0] = Content.Load<Texture2D>("Light0");
+        TLights[1] = Content.Load<Texture2D>("Light1");
+        TLights[2] = Content.Load<Texture2D>("Light2");
+        TLights[3] = Content.Load<Texture2D>("Light3");
+        TLights[4] = Content.Load<Texture2D>("Light4");
+        TLights[5] = Content.Load<Texture2D>("Light5");
         // TODO: use this.Content to load your game content here
     }
 
@@ -80,9 +87,9 @@ public class Game1 : Game
             {
                 Count++;
 
-                if (Count % LIGHT_DELAY == 0) {SourceLights.X += 32;}
+                if (Count % LIGHT_DELAY == 0) {LightIndex++;}
                 
-                if (Count == LIGHT_DELAY * 3) {Delaying = true; Count = 0;}
+                if (Count == LIGHT_DELAY * 4) {Delaying = true; Count = 0;}
             }
             else if (!Timing && Delaying)
             {
@@ -93,7 +100,7 @@ public class Game1 : Game
                     Timing = true;
                     Delaying = false;
                     Count = 0;
-                    SourceLights.X += 32;
+                    LightIndex++;
                 }
             }
             else if (Timing)
@@ -127,7 +134,7 @@ public class Game1 : Game
         {
         _spriteBatch.Draw(TBackGround,BackGround,Color.White);
         _spriteBatch.Draw(TCar,Car,Color.White);
-        _spriteBatch.Draw(TLights,new Vector2(Lights.X,Lights.Y),SourceLights,Color.White,0f,Vector2.Zero,3f,SpriteEffects.None,0f);
+        _spriteBatch.Draw(TLights[LightIndex],Lights,Color.White);
         _spriteBatch.DrawString(GameFont,$"Time: {Time}",Vector2.Zero,Color.Black);
         }
         _spriteBatch.End();
