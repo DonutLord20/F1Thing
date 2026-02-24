@@ -41,3 +41,4 @@ C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Debug\net8.0\Content\Light
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Debug\net8.0\Content\Light4.xnb
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Debug\net8.0\Content\Light5.xnb
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Debug\net8.0\Content\Light3.xnb
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Debug\net8.0\Content\StartBackGround.xnb

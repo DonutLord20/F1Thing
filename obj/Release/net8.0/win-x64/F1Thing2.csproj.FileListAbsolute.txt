@@ -1,7 +1,6 @@
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\Content\BackGround.xnb
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\Content\Car.xnb
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\Content\GameFont.xnb
-C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\Content\Lights.xnb
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\F1Thing2.exe
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\F1Thing2.deps.json
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\F1Thing2.runtimeconfig.json
@@ -206,3 +205,10 @@ C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\obj\Release\net8.0\win-x64\ref
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\obj\Release\net8.0\win-x64\F1Thing2.pdb
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\obj\Release\net8.0\win-x64\F1Thing2.genruntimeconfig.cache
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\obj\Release\net8.0\win-x64\ref\F1Thing2.dll
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\Content\Light0.xnb
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\Content\Light1.xnb
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\Content\Light2.xnb
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\Content\Light3.xnb
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\Content\Light4.xnb
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\Content\Light5.xnb
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\Content\StartBackGround.xnb

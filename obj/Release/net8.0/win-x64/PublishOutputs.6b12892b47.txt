@@ -2,7 +2,13 @@ C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\pub
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\publish\Content/BackGround.xnb
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\publish\Content/Car.xnb
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\publish\Content/GameFont.xnb
-C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\publish\Content/Lights.xnb
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\publish\Content/Light0.xnb
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\publish\Content/Light1.xnb
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\publish\Content/Light2.xnb
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\publish\Content/Light3.xnb
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\publish\Content/Light4.xnb
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\publish\Content/Light5.xnb
+C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\publish\Content/StartBackGround.xnb
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\publish\F1Thing2.dll
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\publish\F1Thing2.deps.json
 C:\Users\Craig\OneDrive\Desktop\monogame\F1Thing2\bin\Release\net8.0\win-x64\publish\F1Thing2.runtimeconfig.json

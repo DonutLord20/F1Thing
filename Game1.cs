@@ -32,6 +32,9 @@ public class Game1 : Game
 
     private Texture2D[] TLights = new Texture2D[6];
     private Rectangle Lights;
+
+    private Texture2D TStartBack;
+    private Rectangle StartBack;
     public Game1()
     {
         _graphics = new GraphicsDeviceManager(this);
@@ -55,6 +58,7 @@ public class Game1 : Game
         Car = new Rectangle(0,400,200,60);
         BackGround = new Rectangle(0,0,800,480);
         Lights = new Rectangle(480,-8,340,180);
+        StartBack = new Rectangle(0,0,800,480);
         
         base.Initialize();
     }
@@ -72,6 +76,8 @@ public class Game1 : Game
         TLights[3] = Content.Load<Texture2D>("Light3");
         TLights[4] = Content.Load<Texture2D>("Light4");
         TLights[5] = Content.Load<Texture2D>("Light5");
+
+        TStartBack = Content.Load<Texture2D>("StartBackGround");
         // TODO: use this.Content to load your game content here
     }
 
@@ -113,10 +119,21 @@ public class Game1 : Game
                     Timing = false;
                     Finished = true;
                     Driving = true;
+                    Count = 0;
                 }
             }
 
             if (Driving) {Car.X += 15;}
+
+            if (Finished)
+            {
+                Count++;
+
+                if (Count / 60 == 5)
+                {
+                    Initialize();
+                }
+            }
        }
        
         // TODO: Add your update logic here
@@ -129,7 +146,11 @@ public class Game1 : Game
         GraphicsDevice.Clear(Color.Black);
         
         _spriteBatch.Begin();
-        if (!Start) {_spriteBatch.DrawString(GameFont,"Press Enter to Start",new Vector2(400,200),Color.White);}
+        if (!Start) 
+        {
+        _spriteBatch.Draw(TStartBack,StartBack,Color.White);
+        _spriteBatch.DrawString(GameFont,"Press Enter to Start",new Vector2(400,200),Color.White);
+        }
         else
         {
         _spriteBatch.Draw(TBackGround,BackGround,Color.White);
